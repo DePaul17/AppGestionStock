@@ -1,0 +1,11 @@
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\bin\Debug\AppGestionStock.exe.config
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\bin\Debug\AppGestionStock.exe
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\bin\Debug\AppGestionStock.pdb
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.csproj.AssemblyReference.cache
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.csproj.SuggestedBindingRedirects.cache
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.Form1.resources
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.Properties.Resources.resources
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.csproj.GenerateResource.cache
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.csproj.CoreCompileInputs.cache
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.exe
+C:\Users\Core\source\repos\AppGestionStock\AppGestionStock\obj\Debug\AppGestionStock.pdb
